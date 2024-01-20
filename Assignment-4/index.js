@@ -98,7 +98,3 @@
 //     const multiply = a*i;
 //     console.log(a + "*" + i + "="+ multiply);
 // }
-
-
-
-
